@@ -4,6 +4,8 @@ import os
 import sys
 charset="utf-8"
 
+print("	   ")
+print("	   ")
 print("	   Termux İçin Oluşturuldu")
 print("	        Hoşgeldiniz")
 print("	   ")
