@@ -10,8 +10,7 @@ print("	   Termux İçin Oluşturuldu")
 print("	        Hoşgeldiniz")
 print("	   ")
 print("	   --------------------------")
-print("	   İnstagram : huseyin.138 - hrp_huradpa_")
-print("	   WhatsApp Grubu : https://chat.whatsapp.com/Gb42jFj3R3K3aYvjsSKVMd")
+print("	   İnstagram : huseyin.138 ")
 print("	   --------------------------")
 print("")
 print("	[01] lootboty")
@@ -31,11 +30,11 @@ print("	[11] Programı Kapat ")
 
 user_input = input("  Seçiniz :  ")
 
-if user_input == "1" or user_input == "1":
+if user_input == "1" or user_input == "01":
 	print("lootboty Hack Toolu Şuanki Konumunuza İndiriliyor...")
 	subprocess.call(["git","clone","https://github.com/wi-fi-analyzer/lootboty.git"])
 
-elif user_input == "2" or user_input == "2":
+elif user_input == "2" or user_input == "02":
 	print("TBomb Hack Toolu Şuanki Konumunuza İndiriliyor...")
 	subprocess.call(["git","clone","https://github.com/TheSpeedX/TBomb.git"])
 
